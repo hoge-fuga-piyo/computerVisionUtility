@@ -1,4 +1,5 @@
 #include "fileUtil.hpp"
+#include <algorithm>
 
 /**
  * @brief Read file and directory paths in the target directory.

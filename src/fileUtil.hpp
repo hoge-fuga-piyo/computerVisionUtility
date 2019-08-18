@@ -1,9 +1,7 @@
 #ifndef FILE_UTIL_HPP
 #define FILE_UTIL_HPP
 
-#include <iostream>
 #include <vector>
-#include <array>
 #include <filesystem>
 
 class FileUtil {
